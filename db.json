@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "id": 0,
+      "author": "Johannes Lilja",
+      "title": "An article",
+      "text": "This is an article about this and that.",
+      "authorMail": "joh.lilja@gmail.com",
+      "date": "2016-04-12",
+      "imageURL": "http://localhost:3030/images/totoro.png"
+    },
+    {
+      "id": 1,
+      "author": "J Lilja",
+      "title": "The Second",
+      "text": "Article two.",
+      "authorMail": "joh.lilja@gmail.com",
+      "date": "2016-04-09"
+    }
+  ]
+}

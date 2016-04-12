@@ -1,0 +1,11 @@
+{
+  "name": "jsondb",
+  "version": "1.0.0",
+  "description": "Test REST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johannes Lilja",
+  "license": "ISC"
+}
