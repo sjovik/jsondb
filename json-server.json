@@ -1,5 +1,4 @@
 {
   "port": "3030",
-  "delay": "120",
-  "static": "./public"
+  "delay": "120"
 }
